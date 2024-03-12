@@ -1,0 +1,17 @@
+2023.10.16 05:36:00 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/coder/project/reactlab/.metals/lsp.trace.json or /home/coder/.cache/metals/lsp.trace.json
+2023.10.16 05:36:01 INFO  logging to file /home/coder/project/reactlab/.metals/metals.log
+2023.10.16 05:36:01 INFO  Started: Metals version 0.11.7 in workspace '/home/coder/project/reactlab' for client code-server 1.60.0.
+2023.10.16 05:36:02 INFO  time: initialize in 1.27s
+2023.10.16 05:36:02 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2023.10.16 05:36:02 WARN  Build server is not auto-connectable.
+2023.10.16 05:36:02 WARN  no build tool detected in workspace '/home/coder/project/reactlab'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Oct 16, 2023 5:36:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.10.16 07:33:20 INFO  shutting down Metals
+2023.10.16 07:35:08 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/coder/project/reactlab/.metals/lsp.trace.json or /home/coder/.cache/metals/lsp.trace.json
+2023.10.16 07:35:09 INFO  logging to file /home/coder/project/reactlab/.metals/metals.log
+2023.10.16 07:35:09 INFO  Started: Metals version 0.11.7 in workspace '/home/coder/project/reactlab' for client code-server 1.60.0.
+2023.10.16 07:35:10 INFO  time: initialize in 0.8s
+2023.10.16 07:35:10 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2023.10.16 07:35:10 WARN  Build server is not auto-connectable.
+2023.10.16 07:35:10 WARN  no build tool detected in workspace '/home/coder/project/reactlab'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
