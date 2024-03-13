@@ -18,7 +18,7 @@ function App() {
           <ContactMeSection />
           <Footer />
           <Alert />
-        </main>
+        </main> 
       </AlertProvider>
     </ChakraProvider>
   );
